@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>1.0.0</version>
+  <url>https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/Latest/DWG_Viewer.zip</url>
+  <changelog>https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/README.md</changelog>
+  <mandatory>false</mandatory>
+  <launchArgs>/update</launchArgs>
+</item>
