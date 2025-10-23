@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <item>
 <version>1.0.0.1</version>
-<url>https://github.com/D-Chandelier/KGD_Updates/releases/download/DWG_Viewer/1.0.0.1.zip</url>
+<url>https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/v1.0.0.1.zip</url>
 <changelog>
 - Ajout de la gestion avancée du zoom
 - Correction du bug de sélection des entités
@@ -9,4 +9,5 @@
 </changelog>
 <mandatory>false</mandatory>
 </item>
+
 
