@@ -1,5 +1,5 @@
 
-v1.0.0.2 - 23/10/2025
+v1.0.0.2 - 24/10/2025
 ========================
 Version de teste pour confirmer le bon fonctionnement du système de MàJ
 
