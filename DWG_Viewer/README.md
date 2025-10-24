@@ -4,8 +4,8 @@
 ### 📸 Captures d’écran
 
 <p align="center">
-  <img src="src/DWG_Viewer_Black.png" alt="DWG Viewer - Thème Sombre" width="25%" style="border-radius:12px; margin-right:4px;">
-  <img src="src/DWG_Viewer_Light.png" alt="DWG Viewer - Thème Clair" width="25%" style="border-radius:12px;">
+  <img src="https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/src/DWG_Viewer_Black.png" alt="DWG Viewer - Thème Sombre" width="25%" style="border-radius:12px; margin-right:4px;">
+  <img src="https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/src/DWG_Viewer_Light.png" alt="DWG Viewer - Thème Clair" width="25%" style="border-radius:12px;">
 </p>
 
 <p align="center">
