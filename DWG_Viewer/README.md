@@ -1,6 +1,18 @@
 # 🧭 DWG Viewer  
 > Visualiseur DXF/DWG moderne avec extraction et gestion avancée des textes
 
+### 📸 Captures d’écran
+
+<p align="center">
+  <img src="src/DWG_Viewer_Black.png" alt="DWG Viewer - Thème Sombre" width="25%" style="border-radius:12px; margin-right:4px;">
+  <img src="src/DWG_Viewer_Light.png" alt="DWG Viewer - Thème Clair" width="25%" style="border-radius:12px;">
+</p>
+
+<p align="center">
+  <em>Thèmes Sombre et Clair du DWG Viewer</em>
+</p>
+
+
 ---
 
 ### 📘 Présentation
@@ -53,8 +65,4 @@ L’objectif est d’offrir un outil rapide et intuitif pour :
 3. (Optionnel) Installez **ODA File Converter** et indiquez le chemin de l’exécutable dans les **options** du programme pour activer la compatibilité DWG.
 
 ---
-
-### 📸 Captures d’écran
-
-*(À venir — insérez vos images ici)*  
 
