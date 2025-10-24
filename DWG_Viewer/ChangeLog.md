@@ -3,13 +3,11 @@
 ---
 
 ## 🚀 v1.0.0.3 — 25/10/2025
-### Améliorations majeures
-- ✨ **Zoom avancé** : gestion fluide du zoom centré sur la souris.  
-- 🧩 **Correction** du bug de sélection d’entités.  
-- ⚡ **Optimisation SkiaSharp** : rendu plus rapide et plus précis.  
-- 🧱 Mise à jour du système d’aperçu et du recalcul des bounding-box.  
-- 🔄 Amélioration de la compatibilité DXF multi-calques.  
-- 📦 Intégration complète avec le nouveau système de mise à jour automatique.  
+### Améliorations mineurs 
+- ✅ Mise en page de la fenêtre **Update**
+- ✅ Mise aux normes du Github **KGD_Updates** pour respecter les recommandations de Github.
+- ✅ Fenêtre "Aide/A Propos" adaptée pour refléter le Github.
+- ✅ Intégration complète avec le nouveau système de mise à jour automatique.  
 
 ---
 
