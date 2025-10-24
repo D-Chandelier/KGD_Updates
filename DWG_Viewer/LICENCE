@@ -1,0 +1,25 @@
+DWG Viewer - Redistribution License
+Copyright (c) 2025 David Chandelier
+
+This repository contains binary and update distribution files for the DWG Viewer application.
+The source code is proprietary and is not distributed as part of this repository.
+
+You are granted permission to download, install and use the DWG Viewer binaries for personal
+or professional use, without modification, subject to the following conditions:
+
+- The distributed binaries must remain intact and unmodified.
+- Redistribution of the binaries for commercial resale is not permitted.
+- The author disclaims any warranties or liabilities arising from the use of this software.
+
+---
+
+Third-party components included in DWG Viewer remain under their respective licenses:
+
+- **SkiaSharp.Views.WPF** — MIT License
+- **netDxf** — MIT License
+- **Material.Icons.WPF** — MIT License
+- **AutoUpdater.NET.Official** — MIT License
+- **System.Text.Json** — MIT License (Microsoft)
+- **WPF / .NET Runtime** — Microsoft EULA
+
+Each dependency’s license is available via their NuGet package or source repository.
