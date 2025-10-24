@@ -1,4 +1,8 @@
 
+v1.0.0.2 - 23/10/2025
+========================
+Version de teste pour confirmer le bon fonctionnement du système de MàJ
+
 v1.0.0.1 - 23/10/2025
 ========================
 L'application DWG_Viewer rapart sur une numérotation de version suite à une refonte complète du code 
