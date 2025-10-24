@@ -3,13 +3,11 @@
   <version>1.0.0.2</version>
   <url>https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/Latest/DWG_Viewer.zip</url>
   <changelog><![CDATA[
-<h2>🚀 Version 1.0.0.3</h2>
-	  
-<h1>v1.0.0.2 - 24/10/2025</h1>
-	  
+**v1.0.0.2 - 24/10/2025
+=====================
 Version de teste pour confirmer le bon fonctionnement du système de MàJ
 
-v1.0.0.1 - 23/10/2025
+**v1.0.0.1 - 23/10/2025
 ========================
 L'application DWG_Viewer rapart sur une numérotation de version suite à une refonte complète du code 
 et des fonctionnalités pour correspondre avec une logique de mise à jour plus conventionnelle.
@@ -88,6 +86,7 @@ MainWindow.xaml.cs:
   <mandatory>false</mandatory>
   <launchArgs>/update</launchArgs>
 </item>
+
 
 
 
