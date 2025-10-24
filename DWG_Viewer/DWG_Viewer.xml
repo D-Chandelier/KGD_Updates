@@ -2,7 +2,7 @@
 <item>
   <version>1.0.0.2</version>
   <url>https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/Latest/DWG_Viewer.zip</url>
-  <changelog>
+  <changelog><![CDATA[
 <h2>🚀 Version 1.0.0.3</h2>
 	  
 <h1>v1.0.0.2 - 24/10/2025</h1>
@@ -84,10 +84,11 @@ MainWindow.xaml.cs:
 	- Correction de la fonction ExitApp_Click() pour fermer l'application correctement.
 	- Clic droit glissé pour sélection plusieurs lignes avec affichage du contextMenu
 	- Mode RO, Ligne ou Multiligne
-	 > mode RO: Interception du CTRL+V pour coller Cassette par Cassette</changelog>
+	 > mode RO: Interception du CTRL+V pour coller Cassette par Cassette]]></changelog>
   <mandatory>false</mandatory>
   <launchArgs>/update</launchArgs>
 </item>
+
 
 
 
