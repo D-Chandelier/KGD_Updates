@@ -30,10 +30,10 @@ Anciennes Versions:
 
 v1.0.0.0 - 01/10/2025
 ========================
-Informations sur l'Application DXFViewer
-Version: 2.0a -> v1.0.0.0
-Date de Publication: 23 Octobre 2025
-Description:
+Informations sur l'Application DXFViewer  
+Version: 2.0a -> v1.0.0.0  
+Date de Publication: 23 Octobre 2025  
+Description:  
 DXFViewer est une application Windows développée en C# utilisant WPF pour l'interface utilisateur et 
 la bibliothèque netDxf pour le traitement des fichiers DXF.
 
