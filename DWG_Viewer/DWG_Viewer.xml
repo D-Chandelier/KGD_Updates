@@ -4,7 +4,7 @@
   <url>https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/Latest/DWG_Viewer.zip</url>
   <changelog>
 <h2>🚀 Version 1.0.0.3</h2>
-  </br>
+	  
 <h1>v1.0.0.2 - 24/10/2025</h1>
 	  
 Version de teste pour confirmer le bon fonctionnement du système de MàJ
@@ -88,6 +88,7 @@ MainWindow.xaml.cs:
   <mandatory>false</mandatory>
   <launchArgs>/update</launchArgs>
 </item>
+
 
 
 
