@@ -60,9 +60,15 @@ KGD_Updates/
 
 ## 🔮 Projets futurs
 
-- Ce dépôt pourra accueillir les mises à jour de plusieurs programmes différents.  
-- Chaque programme aura sa propre **structure isolée** (`Latest/`, `Old/`, `Changelog.md`, XML pour AutoUpdater.NET, etc.)  
-- L’objectif est de centraliser les mises à jour pour toutes les applications, de manière **publique et sécurisée**.
+Ce dépôt est prévu pour accueillir **plusieurs programmes**.  
+Chaque application aura sa propre structure isolée :  
+- `Latest/` → dernière version compilée  
+- `Old/` → anciennes versions  
+- `Changelog.md` → historique des versions  
+- XML → pour AutoUpdater.NET  
+
+Objectif : **centraliser toutes les mises à jour** pour tes applications de manière publique et sécurisée.
+
 
 ---
 
