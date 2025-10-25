@@ -21,5 +21,6 @@ Third-party components included in DWG Viewer remain under their respective lice
 - **AutoUpdater.NET.Official** — MIT License
 - **System.Text.Json** — MIT License (Microsoft)
 - **WPF / .NET Runtime** — Microsoft EULA
+- **Markdig** — BSD 2-Clause License
 
 Each dependency’s license is available via their NuGet package or source repository.
