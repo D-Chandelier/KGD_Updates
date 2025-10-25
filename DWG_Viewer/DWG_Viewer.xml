@@ -5,13 +5,13 @@
   <changelog>
     <![CDATA[
 # 🧾 Notes de version — DWG Viewer
-| Catégorie | Icône                | Signification                          |
-| --------- | -------------------- | -------------------------------------- |
-| ✅        | Correction de bug    | Correction des remontées de bug|
-| 🧩        | Amélioration mineure | Petites optimisations ou corrections   |
-| 🚀        | Amélioration majeure | Fonctionnalité ajoutée ou refonte      |
-| 🧹        | Nettoyage du code    | Suppression, simplification, formatage |
-| 🏗️       | Réorganisation       | Refactor structurel ou architectural   |
+| Icône | Catégorie           | Signification                          |
+| ----- | -------------------- | -------------------------------------- |
+| ✅   | Correction de bug    | Correction des remontées de bug        |
+| 🧩   | Amélioration mineure | Petites optimisations ou corrections   |
+| 🚀   | Amélioration majeure | Fonctionnalité ajoutée ou refonte      |
+| 🧹   | Nettoyage du code    | Suppression, simplification, formatage |
+| 🏗️   | Réorganisation       | Refactor structurel ou architectural   |
 
 ---
 ## 🚀 v1.0.0.4 — 26/10/2025
@@ -69,3 +69,4 @@ Les fichiers de mise à jour sont hébergés dans ce dépôt public.
   <mandatory>false</mandatory>
   <launchArgs>/update</launchArgs>
 </item>
+
