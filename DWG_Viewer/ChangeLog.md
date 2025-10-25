@@ -1,6 +1,19 @@
 # 🧾 Notes de version — DWG Viewer
+| Catégorie | Icône                | Signification                          |
+| --------- | -------------------- | -------------------------------------- |
+| ✅        | Correction de bug    | Correction des remontées de bug|
+| 🧩        | Amélioration mineure | Petites optimisations ou corrections   |
+| 🚀        | Amélioration majeure | Fonctionnalité ajoutée ou refonte      |
+| 🧹        | Nettoyage du code    | Suppression, simplification, formatage |
+| 🏗️       | Réorganisation       | Refactor structurel ou architectural   |
 
 ---
+## 🚀 v1.0.0.4 — 26/10/2025
+### Améliorations: 
+- ✅ Correction du bug "clic simple" en mode RO
+- 🚀 Ajout menu contextuel en mode Baie (B1 à B12)
+- 🏗️ Création de classes pour séparer proprement le code
+- 🧹 Nettoyage du code 
 
 ## 🚀 v1.0.0.3 — 25/10/2025
 ### Améliorations mineurs 
