@@ -29,7 +29,7 @@ Elle inclut :
 [📦 DWG_Viewer.zip](DWG_Viewer/Latest/DWG_Viewer.zip)  
 
 **Changelog détaillé :**  
-[📝 DWG_Viewer Changelog](DWG_Viewer/Changelog.md)  
+[📝 DWG_Viewer Changelog](DWG_Viewer/ChangeLog.md)  
 
 ---
 
