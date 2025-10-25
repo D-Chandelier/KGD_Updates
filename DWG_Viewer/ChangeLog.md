@@ -5,8 +5,9 @@
 ## 🚀 v1.0.0.3 — 25/10/2025
 ### Améliorations mineurs 
 - ✅ Mise en page de la fenêtre **Update**
+- ✅ Verification de version via `Aide/Vérifier les mises à jour...`
 - ✅ Mise aux normes du Github **KGD_Updates** pour respecter les recommandations de Github.
-- ✅ Fenêtre "Aide/A Propos" adaptée pour refléter le Github.
+- ✅ Fenêtre `Aide/A Propos` adaptée pour refléter le Github.
 - ✅ Intégration complète avec le nouveau système de mise à jour automatique.  
 
 ---
@@ -29,7 +30,7 @@ L’application **DWG_Viewer** repart sur une **nouvelle base de versionnement**
 - 💾 Nouvelle structure interne pour une meilleure stabilité.  
 - 📚 Amélioration du chargement des fichiers DXF volumineux.  
 - 🧩 Optimisation de la lecture et de l’affichage des entités (Line, Text, MText…).  
-- 🪶 Interface “À propos” et messages d’erreur mis à jour.  
+- 🪶 Interface **“À propos”** et messages d’erreur mis à jour.  
 - ⚙️ Intégration complète avec le fichier de configuration JSON (AppSettings).  
 - 🌙 Préparation du support thème clair / sombre.  
 - 🔔 Ajout du système de mise à jour automatique via **AutoUpdater.NET**.
