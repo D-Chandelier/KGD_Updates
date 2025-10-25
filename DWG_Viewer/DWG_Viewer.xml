@@ -1,18 +1,32 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.0.0.3</version>
+  <version>1.0.0.4</version>
   <url>https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/Latest/DWG_Viewer.zip</url>
   <changelog>
     <![CDATA[
 # 🧾 Notes de version — DWG Viewer
+| Catégorie | Icône                | Signification                          |
+| --------- | -------------------- | -------------------------------------- |
+| ✅        | Correction de bug    | Correction des remontées de bug|
+| 🧩        | Amélioration mineure | Petites optimisations ou corrections   |
+| 🚀        | Amélioration majeure | Fonctionnalité ajoutée ou refonte      |
+| 🧹        | Nettoyage du code    | Suppression, simplification, formatage |
+| 🏗️       | Réorganisation       | Refactor structurel ou architectural   |
 
 ---
+## 🚀 v1.0.0.4 — 26/10/2025
+### Améliorations: 
+- ✅ Correction du bug "clic simple" en mode RO
+- 🚀 Ajout menu contextuel en mode Baie (B1 à B12)
+- 🏗️ Création de classes pour séparer proprement le code
+- 🧹 Nettoyage du code 
 
 ## 🚀 v1.0.0.3 — 25/10/2025
 ### Améliorations mineurs 
 - ✅ Mise en page de la fenêtre **Update**
+- ✅ Verification de version via `Aide/Vérifier les mises à jour...`
 - ✅ Mise aux normes du Github **KGD_Updates** pour respecter les recommandations de Github.
-- ✅ Fenêtre "Aide/A Propos" adaptée pour refléter le Github.
+- ✅ Fenêtre `Aide/A Propos` adaptée pour refléter le Github.
 - ✅ Intégration complète avec le nouveau système de mise à jour automatique.  
 
 ---
@@ -35,7 +49,7 @@ L’application **DWG_Viewer** repart sur une **nouvelle base de versionnement**
 - 💾 Nouvelle structure interne pour une meilleure stabilité.  
 - 📚 Amélioration du chargement des fichiers DXF volumineux.  
 - 🧩 Optimisation de la lecture et de l’affichage des entités (Line, Text, MText…).  
-- 🪶 Interface “À propos” et messages d’erreur mis à jour.  
+- 🪶 Interface **“À propos”** et messages d’erreur mis à jour.  
 - ⚙️ Intégration complète avec le fichier de configuration JSON (AppSettings).  
 - 🌙 Préparation du support thème clair / sombre.  
 - 🔔 Ajout du système de mise à jour automatique via **AutoUpdater.NET**.
