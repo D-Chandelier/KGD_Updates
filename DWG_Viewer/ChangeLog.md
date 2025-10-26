@@ -8,6 +8,16 @@
 | 🏗️       | Réorganisation       | Refactor structurel ou architectural   |
 
 ---
+## 🚀 v1.0.0.5 — 26/10/2025
+### Améliorations: 
+- 🚀 Rotation du plan **"⟲" "⟳"** dans la barre de statut
+- 🧩 Fichier/Document info:  
+  - Affichage des variables du document.
+  - Affichage détaillé des calques.
+  - Affichage des types de ligne.
+
+
+---
 ## 🚀 v1.0.0.4 — 26/10/2025
 ### Améliorations: 
 - ✅ Correction du bug "clic simple" en mode RO
