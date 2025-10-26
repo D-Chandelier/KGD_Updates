@@ -1,17 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.0.0.4</version>
+  <version>1.0.0.5</version>
   <url>https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/Latest/DWG_Viewer.zip</url>
   <changelog>
     <![CDATA[
 # 🧾 Notes de version — DWG Viewer
-| Icône | Catégorie           | Signification                          |
-| ----- | -------------------- | -------------------------------------- |
-| ✅   | Correction de bug    | Correction des remontées de bug        |
-| 🧩   | Amélioration mineure | Petites optimisations ou corrections   |
-| 🚀   | Amélioration majeure | Fonctionnalité ajoutée ou refonte      |
-| 🧹   | Nettoyage du code    | Suppression, simplification, formatage |
-| 🏗️   | Réorganisation       | Refactor structurel ou architectural   |
+| Catégorie | Icône                | Signification                          |
+| --------- | -------------------- | -------------------------------------- |
+| ✅        | Correction de bug    | Correction des remontées de bug|
+| 🧩        | Amélioration mineure | Petites optimisations ou corrections   |
+| 🚀        | Amélioration majeure | Fonctionnalité ajoutée ou refonte      |
+| 🧹        | Nettoyage du code    | Suppression, simplification, formatage |
+| 🏗️       | Réorganisation       | Refactor structurel ou architectural   |
+
+---
+## 🚀 v1.0.0.5 — 26/10/2025
+### Améliorations: 
+- 🚀 Rotation du plan **"⟲" "⟳"** dans la barre de statut
+- 🧩 Fichier/Document info:  
+  - Affichage des variables du document.
+  - Affichage détaillé des calques.
+  - Affichage des types de ligne.
+
 
 ---
 ## 🚀 v1.0.0.4 — 26/10/2025
@@ -69,5 +79,3 @@ Les fichiers de mise à jour sont hébergés dans ce dépôt public.
   <mandatory>false</mandatory>
   <launchArgs>/update</launchArgs>
 </item>
-
-
