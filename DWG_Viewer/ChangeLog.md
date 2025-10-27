@@ -15,9 +15,11 @@
   - Affichage des variables du document.
   - Affichage détaillé des calques.
   - Affichage des types de ligne.
-
-
+  - 
 ---
+<details>
+  <summary>Cliquer pour dérouler</summary>
+  
 ## 🚀 v1.0.0.4 — 26/10/2025
 ### Améliorations: 
 - ✅ Correction du bug "clic simple" en mode RO
@@ -57,6 +59,7 @@ L’application **DWG_Viewer** repart sur une **nouvelle base de versionnement**
 - ⚙️ Intégration complète avec le fichier de configuration JSON (AppSettings).  
 - 🌙 Préparation du support thème clair / sombre.  
 - 🔔 Ajout du système de mise à jour automatique via **AutoUpdater.NET**.
+</Details>
 
 ---
 
