@@ -18,7 +18,7 @@
   - 
 ---
 <details>
-  <summary>Cliquer pour dérouler</summary>
+  <summary>Cliquer pour dérouler</summary>  
   
 ## 🚀 v1.0.0.4 — 26/10/2025
 ### Améliorations: 
