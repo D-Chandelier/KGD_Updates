@@ -22,7 +22,8 @@
   - Affichage détaillé des calques.
   - Affichage des types de ligne.
 
-
+<details>
+  <summary>Cliquer pour dérouler</summary>
 ---
 ## 🚀 v1.0.0.4 — 26/10/2025
 ### Améliorations: 
@@ -73,9 +74,10 @@ Les fichiers de mise à jour sont hébergés dans ce dépôt public.
 🔗 **Dernier package** : [DWG_Viewer.zip](https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/Latest/DWG_Viewer.zip)
 
 ---
-
+  </details>
 > 🛠️ *DWG Viewer continue d’évoluer : nouvelles optimisations, meilleure compatibilité avec les formats DXF/DWG et intégration continue des retours utilisateurs.*
     ]]></changelog>
   <mandatory>false</mandatory>
   <launchArgs>/update</launchArgs>
 </item>
+
