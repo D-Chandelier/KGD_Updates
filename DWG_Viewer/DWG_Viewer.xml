@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.0.0.5</version>
+  <version>1.0.0.5a</version>
   <url>https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/Latest/DWG_Viewer.zip</url>
   <changelog>
     <![CDATA[
@@ -80,4 +80,5 @@ Les fichiers de mise à jour sont hébergés dans ce dépôt public.
   <mandatory>false</mandatory>
   <launchArgs>/update</launchArgs>
 </item>
+
 
