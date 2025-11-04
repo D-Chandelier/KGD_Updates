@@ -1,12 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>1.0.0.5</version>
-  <url>https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/releases/download/Latest/DWG_Viewer.zip</url>
+  <url>https://github.com/D-Chandelier/KGD_Updates/releases/download/Latest/DWG_Viewer.zip</url>
   <changelog>
     <![CDATA[.<url>https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/Latest/DWG_Viewer.zip</url>.]]></changelog>
   <mandatory>false</mandatory>
   <launchArgs>/update</launchArgs>
 </item>
+
 
 
 
