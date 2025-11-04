@@ -8,6 +8,16 @@
 | 🏗️       | Réorganisation       | Refactor structurel ou architectural   |
 
 ---
+## 🚀 v1.0.0.6 — 04/11/2025
+### Améliorations: 
+ - ✅ Correction du bug pour deplacement du plan avec rotation
+ - 🏗️ Réorganisation du code
+
+---
+<details>
+  <summary>Cliquer pour afficher les anciennes versions</summary>  
+  
+
 ## 🚀 v1.0.0.5 — 26/10/2025
 ### Améliorations: 
 - 🚀 Rotation du plan **"⟲" "⟳"** dans la barre de statut
@@ -17,10 +27,6 @@
   - Affichage des types de ligne.
   
 ---
-<details>
-  <summary>Cliquer pour dérouler</summary>  
-  
----  
 ## 🚀 v1.0.0.4 — 26/10/2025
 ### Améliorations: 
 - ✅ Correction du bug "clic simple" en mode RO
