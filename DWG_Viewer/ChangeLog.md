@@ -1,3 +1,8 @@
+## 🚀 v1.0.0.7 — 07/11/2025
+### Améliorations:
+ - ✅ Empeche la selection des textes si le calques n'est pas visible
+
+---
 # 🧾 Notes de version — DWG Viewer
 | Catégorie | Icône                | Signification                          |
 | --------- | -------------------- | -------------------------------------- |
@@ -7,6 +12,10 @@
 | 🧹        | Nettoyage du code    | Suppression, simplification, formatage |
 | 🏗️       | Réorganisation       | Refactor structurel ou architectural   |
 
+<details>
+  <summary>Cliquer pour afficher les anciennes versions</summary>  
+
+   
 ---
 ## 🚀 v1.0.0.6 — 04/11/2025
 ### Améliorations: 
@@ -14,10 +23,6 @@
  - 🏗️ Réorganisation du code
 
 ---
-<details>
-  <summary>Cliquer pour afficher les anciennes versions</summary>  
-  
-
 ## 🚀 v1.0.0.5 — 26/10/2025
 ### Améliorations: 
 - 🚀 Rotation du plan **"⟲" "⟳"** dans la barre de statut
