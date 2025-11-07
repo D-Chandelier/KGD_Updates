@@ -20,7 +20,7 @@
 ## 🚀 v1.0.0.7 — 07/11/2025
 ### Améliorations:
  - ✅ Empeche la selection des textes si le calques n'est pas visible
- - 
+ 
 ## 🚀 v1.0.0.6 — 04/11/2025
 ### Améliorations: 
  - ✅ Correction du bug pour deplacement du plan avec rotation
