@@ -12,17 +12,16 @@
 | 🧹        | Nettoyage du code    | Suppression, simplification, formatage |
 | 🏗️       | Réorganisation       | Refactor structurel ou architectural   |
 
+---
 <details>
   <summary>Cliquer pour afficher les anciennes versions</summary>  
 
    
----
 ## 🚀 v1.0.0.6 — 04/11/2025
 ### Améliorations: 
  - ✅ Correction du bug pour deplacement du plan avec rotation
  - 🏗️ Réorganisation du code
 
----
 ## 🚀 v1.0.0.5 — 26/10/2025
 ### Améliorations: 
 - 🚀 Rotation du plan **"⟲" "⟳"** dans la barre de statut
@@ -31,7 +30,6 @@
   - Affichage détaillé des calques.
   - Affichage des types de ligne.
   
----
 ## 🚀 v1.0.0.4 — 26/10/2025
 ### Améliorations: 
 - ✅ Correction du bug "clic simple" en mode RO
@@ -47,8 +45,6 @@
 - ✅ Fenêtre `Aide/A Propos` adaptée pour refléter le Github.
 - ✅ Intégration complète avec le nouveau système de mise à jour automatique.  
 
----
-
 ## 🧪 v1.0.0.2 — 24/10/2025
 ### Objectif
 Version de test destinée à **valider le bon fonctionnement du système de mise à jour automatique (AutoUpdater.NET)** avant déploiement officiel.
@@ -56,8 +52,6 @@ Version de test destinée à **valider le bon fonctionnement du système de mise
 - 🧰 Stabilisation du moteur de rendu DXF.  
 - ✅ Vérification du bon fonctionnement du téléchargement et de l’application des mises à jour.  
 - 🔍 Ajustements mineurs dans les logs et le suivi des versions.
-
----
 
 ## 🧱 v1.0.0.1 — 23/10/2025
 ### Refonte complète
