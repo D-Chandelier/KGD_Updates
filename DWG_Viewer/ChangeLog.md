@@ -1,5 +1,6 @@
 ## 🚀 v1.0.0.8 — 07/11/2025
 ### Améliorations:
+ - 🚀 Début d'intégration du catalogue (Béta)
  - 🧩 Optimisation de conversion DWG->DXF en répertoire temporaire
 
 ---
