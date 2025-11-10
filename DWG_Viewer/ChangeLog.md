@@ -1,4 +1,4 @@
-## 🚀 v1.0.0.9 — 10/11/2025
+## 🚀 v1.0.0.9 & v1.0.0.10 — 10/11/2025
 ### Correction de bug:
  - ✅ Problême de mise à l'échelle
 <p align="center">
