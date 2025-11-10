@@ -2,7 +2,7 @@
 ### Correction de bug:
  - ✅ Problême de mise à l'échelle
 <p align="center">
-  <img src="https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/src/1.0.0.9.png" width="25%" style="border-radius:12px; margin-right:4px;">
+  <img src="https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/src/1.0.0.9.png" width="50%" style="border-radius:12px; margin-right:4px;">
 </p>
 
 ---
