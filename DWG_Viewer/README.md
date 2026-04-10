@@ -58,7 +58,7 @@ L’objectif est d’offrir un outil rapide et intuitif pour :
 ### 🪟 Installation
 
 1. **Téléchargez la dernière version** :  
-   👉 [DWG_Viewer.zip](https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/Latest/DWG_Viewer.zip)
+   👉 [DWG_Viewer.zip](https://github.com/D-Chandelier/KGD_Updates/releases/latest/download/DWG_Viewer.zip)
 
 2. **Décompressez et lancez `DWG_Viewer.exe`**
 
