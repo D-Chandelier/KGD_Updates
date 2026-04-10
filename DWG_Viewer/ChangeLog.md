@@ -85,7 +85,7 @@ L’application **DWG_Viewer** repart sur une **nouvelle base de versionnement**
 Chaque version publiée est packagée et disponible via le fichier `DWG_Viewer.xml` utilisé par l’application.  
 Les fichiers de mise à jour sont hébergés dans ce dépôt public.
 
-🔗 **Dernier package** : [DWG_Viewer.zip](https://raw.githubusercontent.com/D-Chandelier/KGD_Updates/main/DWG_Viewer/Latest/DWG_Viewer.zip)
+🔗 **Dernier package** : [DWG_Viewer.zip]([https://github.com/D-Chandelier/KGD_Updates/releases/latest/download/DWG_Viewer.zip])
 
 ---
 
