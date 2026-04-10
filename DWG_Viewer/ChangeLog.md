@@ -1,9 +1,8 @@
-## 📚 v1.0.0.9 & v1.0.0.10 — 10/11/2025
+## 📚 v1.0.0.11 — 10/04/2026
 ### ✅ Correction de bug:
- - Problême de mise à l'échelle
-<p align="center">
-  <img src="https://github.com/D-Chandelier/KGD_Updates/releases/latest/download/1.0.0.9.png" width="50%" style="border-radius:12px; margin-right:4px;">
-</p>
+ - Problême de carractères de formatage des textes dans les attributs d'insert.
+ - Modification des accès distants pour les mises à jours (blocage des liens "raw" par VPN).
+ - Taille de la fenetre catalogue par defaut.
 
 ---
 
@@ -19,6 +18,13 @@
 ---
 <details>
   <summary>Cliquer pour afficher l'historique des versions</summary>  
+
+## 📚 v1.0.0.9 & v1.0.0.10 — 10/11/2025
+### ✅ Correction de bug:
+ - Problême de mise à l'échelle
+<p align="center">
+  <img src="https://github.com/D-Chandelier/KGD_Updates/releases/latest/download/1.0.0.9.png" width="50%" style="border-radius:12px; margin-right:4px;">
+</p>
 
 ## 📚 v1.0.0.8 — 07/11/2025
 ### Améliorations:
