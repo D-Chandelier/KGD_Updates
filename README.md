@@ -26,7 +26,7 @@ Elle inclut :
 - `Changelog.md` : historique des versions  
 
 **Téléchargement :**  
-[📦 DWG_Viewer.zip](DWG_Viewer/Latest/DWG_Viewer.zip)  
+[📦 DWG_Viewer.zip](https://github.com/D-Chandelier/KGD_Updates/releases/latest/download/DWG_Viewer.zip)  
 
 **Changelog détaillé :**  
 [📝 DWG_Viewer Changelog](DWG_Viewer/ChangeLog.md)  
